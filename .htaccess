@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^apply?$ application_form.php
+RewriteRule ^admin131?$ join-admin.php
+RewriteRule ^registration-checker?$ regchecker.php
